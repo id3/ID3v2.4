@@ -330,6 +330,10 @@ Abstract
    The 'ISRC' frame should contain the International Standard Recording
    Code [ISRC] (12 characters).
 
+  TAUT
+   The "Audo Type" frame should be used to define what the top level 
+   contents of the audio file are. Currently utilized are "Mix", "Track",
+   "Stem", "Part", "Loop", "OneShot", and "SFX"
 
 4.2.2.   Involved persons frames
 
@@ -406,6 +410,10 @@ Abstract
    "F" and "G" and halfkeys represented with "b" and "#". Minor is
    represented as "m", e.g. "Dbm" $00. Off key is represented with an
    "o" only.
+
+  TKY2
+   The 'User Defined Key' frame contains a key indicator that could referance
+   a variety of alternative key measurements such as Open Key, Camelot, etc.
 
   TLAN
    The 'Language' frame should contain the languages of the text or
