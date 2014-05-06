@@ -166,6 +166,7 @@ Abstract
   4.7   SYTC Synchronised tempo codes
 
   4.2.1 TALB Album/Movie/Show title
+  4.2.1 TAUT Audio Type
   4.2.3 TBPM BPM (beats per minute)
   4.2.2 TCOM Composer
   4.2.3 TCON Content type
@@ -179,11 +180,14 @@ Abstract
   4.2.2 TENC Encoded by
   4.2.2 TEXT Lyricist/Text writer
   4.2.3 TFLT File type
+  4.2.3 THDB High-definition BPM (beats per minute)
   4.2.2 TIPL Involved people list
   4.2.1 TIT1 Content group description
   4.2.1 TIT2 Title/songname/content description
   4.2.1 TIT3 Subtitle/Description refinement
+  4.2.1 TIT4 Version
   4.2.3 TKEY Initial key
+  4.2.3 TKY2 User defined key
   4.2.3 TLAN Language(s)
   4.2.3 TLEN Length
   4.2.2 TMCL Musician credits list
@@ -210,6 +214,9 @@ Abstract
   4.2.1 TSRC ISRC (international standard recording code)
   4.2.5 TSSE Software/Hardware and settings used for encoding
   4.2.1 TSST Set subtitle
+  4.2.3 TSTM Set time
+  4.2.3 TVNU Venue
+  4.2.3 TVOX Vocal
   4.2.2 TXXX User defined text information frame
 
   4.1   UFID Unique file identifier
@@ -284,6 +291,11 @@ Abstract
    The 'Subtitle/Description refinement' frame is used for information
    directly related to the contents title (e.g. "Op. 16" or "Performed
    live at Wembley").
+   
+  TIT4
+   The ‘Version’ frame is intended to describe the current stage in 
+   the production process the audio content represents, e.g. “Mastered”,
+   “Premix”, "Edit", etc.
 
   TALB
    The 'Album/Movie/Show title' frame is intended for the title of the
@@ -377,6 +389,11 @@ Abstract
    The 'BPM' frame contains the number of beats per minute in the
    main part of the audio. The BPM is an integer and represented as a
    numerical string.
+   
+  THDB
+   The ‘High definition BPM’ frame contains a high precision representation 
+   of the standard   BPM value contained in the frame TBPM.  The High 
+   definition BPM is a float represented as a numerical string.
 
   TLEN
    The 'Length' frame contains the length of the audio file in
@@ -518,6 +535,19 @@ Abstract
   TMOO
    The 'Mood' frame is intended to reflect the mood of the audio with a
    few keywords, e.g. "Romantic" or "Sad".
+     
+  TSTM
+   The ‘Set time’ frame is intended to describe at which times during a 
+   performance or set the audio content is best suited for, e.g. 
+   “Pre-Party”, “Peak Hour”, "Opening", etc.
+
+  TVNU
+   The ‘Venue’ frame is intended to describe at which performance venues 
+   the audio content is best suited for, e.g. “Arena” or “Beach”.
+
+  TVOX
+   The ‘Vocal’ frame describes the type of vocal, if any, the content 
+   contains, e.g. “Vocal Male” or “Sample Female”.
 
 
 4.2.4.   Rights and license frames
