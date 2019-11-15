@@ -1766,198 +1766,199 @@ A.   Appendix A - Genre List from ID3v1
 
    The following genres are defined in ID3v1
 
-      0. Blues
-      1. Classic Rock
-      2. Country
-      3. Dance
-      4. Disco
-      5. Funk
-      6. Grunge
-      7. Hip-Hop
-      8. Jazz
-      9. Metal
-     10. New Age
-     11. Oldies
-     12. Other
-     13. Pop
-     14. R&B
-     15. Rap
-     16. Reggae
-     17. Rock
-     18. Techno
-     19. Industrial
-     20. Alternative
-     21. Ska
-     22. Death Metal
-     23. Pranks
-     24. Soundtrack
-     25. Euro-Techno
-     26. Ambient
-     27. Trip-Hop
-     28. Vocal
-     29. Jazz+Funk
-     30. Fusion
-     31. Trance
-     32. Classical
-     33. Instrumental
-     34. Acid
-     35. House
-     36. Game
-     37. Sound Clip
-     38. Gospel
-     39. Noise
-     40. AlternRock
-     41. Bass
-     42. Soul
-     43. Punk
-     44. Space
-     45. Meditative
-     46. Instrumental Pop
-     47. Instrumental Rock
-     48. Ethnic
-     49. Gothic
-     50. Darkwave
-     51. Techno-Industrial
-     52. Electronic
-     53. Pop-Folk
-     54. Eurodance
-     55. Dream
-     56. Southern Rock
-     57. Comedy
-     58. Cult
-     59. Gangsta
-     60. Top 40
-     61. Christian Rap
-     62. Pop/Funk
-     63. Jungle
-     64. Native American
-     65. Cabaret
-     66. New Wave
-     67. Psychedelic
-     68. Rave
-     69. Showtunes
-     70. Trailer
-     71. Lo-Fi
-     72. Tribal
-     73. Acid Punk
-     74. Acid Jazz
-     75. Polka
-     76. Retro
-     77. Musical
-     78. Rock & Roll
-     79. Hard Rock
-     80. Folk
-     81. Folk-Rock
-     82. National Folk
-     83. Swing
-     84. Fast Fusion
-     85. Bebop
-     86. Latin
-     87. Revival
-     88. Celtic
-     89. Bluegrass
-     90. Avantgarde
-     91. Gothic Rock
-     92. Progressive Rock
-     93. Psychedelic Rock
-     94. Symphonic Rock
-     95. Slow Rock
-     96. Big Band
-     97. Chorus
-     98. Easy Listening
-     99. Acoustic
-    100. Humour
-    101. Speech
-    102. Chanson
-    103. Opera
-    104. Chamber Music
-    105. Sonata
-    106. Symphony
-    107. Booty Bass
-    108. Primus
-    109. Porn Groove
-    110. Satire
-    111. Slow Jam
-    112. Club
-    113. Tango
-    114. Samba
-    115. Folklore
-    116. Ballad
-    117. Power Ballad
-    118. Rhythmic Soul
-    119. Freestyle
-    120. Duet
-    121. Punk Rock
-    122. Drum Solo
-    123. A cappella
-    124. Euro-House
-    125. Dance Hall
-    126. Goa music
-    127. Drum  &. Bass
-    128. Club-House
-    129. Hardcore Techno
-    130. Terror
-    131. Indie
-    132. BritPop
-    133. Negerpunk
-    134. Polsk Punk
-    135. Beat
-    136. Christian Gangsta Rap
-    137. Heavy Metal
-    138. Black Metal
-    139. Crossover
-    140. Contemporary Christian
-    141. Christian Rock
-    142. Merengue
-    143. Salsa
-    144. Thrash Metal
-    145. Anime
-    146. Jpop
-    147. Synthpop
-    148. Abstract
-    149. Art Rock
-    150. Baroque
-    151. Bhangra
-    152. Big beat
-    153. Breakbeat
-    154. Chillout
-    155. Downtempo
-    156. Dub
-    157. EBM
-    158. Eclectic
-    159. Electro
-    160. Electroclash
-    161. Emo
-    162. Experimental
-    163. Garage
-    164. Global
-    165. IDM
-    166. Illbient
-    167. Industro-Goth
-    168. Jam Band
-    169. Krautrock
-    170. Leftfield
-    171. Lounge
-    172. Math Rock
-    173. New Romantic
-    174. Nu-Breakz
-    175. Post-Punk
-    176. Post-Rock
-    177. Psytrance
-    178. Shoegaze
-    179. Space Rock
-    180. Trop Rock
-    181. World Music
-    182. Neoclassical
-    183. Audiobook
-    184. Audio Theatre
-    185. Neue Deutsche Welle
-    186. Podcast
-    187. Indie-Rock
-    188. G-Funk
-    189. Dubstep
-    190. Garage Rock
-    191. Psybient
+      0. $00 Blues
+      1. $01 Classic Rock
+      2. $02 Country
+      3. $03 Dance
+      4. $04 Disco
+      5. $05 Funk
+      6. $06 Grunge
+      7. $07 Hip-Hop
+      8. $08 Jazz
+      9. $09 Metal
+     10. $0A New Age
+     11. $0B Oldies
+     12. $0C Other
+     13. $0D Pop
+     14. $0E R&B
+     15. $0F Rap
+     16. $10 Reggae
+     17. $11 Rock
+     18. $12 Techno
+     19. $13 Industrial
+     20. $14 Alternative
+     21. $15 Ska
+     22. $16 Death Metal
+     23. $17 Pranks
+     24. $18 Soundtrack
+     25. $19 Euro-Techno
+     26. $1A Ambient
+     27. $1B Trip-Hop
+     28. $1C Vocal
+     29. $1D Jazz+Funk
+     30. $1E Fusion
+     31. $1F Trance
+     32. $20 Classical
+     33. $21 Instrumental
+     34. $22 Acid
+     35. $23 House
+     36. $24 Game
+     37. $25 Sound Clip
+     38. $26 Gospel
+     39. $27 Noise
+     40. $28 AlternRock
+     41. $29 Bass
+     42. $2A Soul
+     43. $2B Punk
+     44. $2C Space
+     45. $2D Meditative
+     46. $2E Instrumental Pop
+     47. $2F Instrumental Rock
+     48. $30 Ethnic
+     49. $31 Gothic
+     50. $32 Darkwave
+     51. $33 Techno-Industrial
+     52. $34 Electronic
+     53. $35 Pop-Folk
+     54. $36 Eurodance
+     55. $37 Dream
+     56. $38 Southern Rock
+     57. $39 Comedy
+     58. $3A Cult
+     59. $3B Gangsta
+     60. $3C Top 40
+     61. $3D Christian Rap
+     62. $3E Pop/Funk
+     63. $3F Jungle
+     64. $40 Native American
+     65. $41 Cabaret
+     66. $42 New Wave
+     67. $43 Psychedelic
+     68. $44 Rave
+     69. $45 Showtunes
+     70. $46 Trailer
+     71. $47 Lo-Fi
+     72. $48 Tribal
+     73. $49 Acid Punk
+     74. $4A Acid Jazz
+     75. $4B Polka
+     76. $4C Retro
+     77. $4D Musical
+     78. $4E Rock & Roll
+     79. $4F Hard Rock
+     80. $50 Folk
+     81. $51 Folk-Rock
+     82. $52 National Folk
+     83. $53 Swing
+     84. $54 Fast Fusion
+     85. $55 Bebop
+     86. $56 Latin
+     87. $57 Revival
+     88. $58 Celtic
+     89. $59 Bluegrass
+     90. $5A Avantgarde
+     91. $5B Gothic Rock
+     92. $5C Progressive Rock
+     93. $5D Psychedelic Rock
+     94. $5E Symphonic Rock
+     95. $5F Slow Rock
+     96. $60 Big Band
+     97. $61 Chorus
+     98. $62 Easy Listening
+     99. $63 Acoustic
+    100. $64 Humour
+    101. $65 Speech
+    102. $66 Chanson
+    103. $67 Opera
+    104. $68 Chamber Music
+    105. $69 Sonata
+    106. $6A Symphony
+    107. $6B Booty Bass
+    108. $6C Primus
+    109. $6D Porn Groove
+    110. $6E Satire
+    111. $6F Slow Jam
+    112. $70 Club
+    113. $71 Tango
+    114. $72 Samba
+    115. $73 Folklore
+    116. $74 Ballad
+    117. $75 Power Ballad
+    118. $76 Rhythmic Soul
+    119. $77 Freestyle
+    120. $78 Duet
+    121. $79 Punk Rock
+    122. $7A Drum Solo
+    123. $7B A cappella
+    124. $7C Euro-House
+    125. $7D Dance Hall
+    126. $7E Goa music
+    127. $7F Drum  & Bass
+    128. $80 Club-House
+    129. $81 Hardcore Techno
+    130. $82 Terror
+    131. $83 Indie
+    132. $84 BritPop
+    133. $85 Negerpunk
+    134. $86 Polsk Punk
+    135. $87 Beat
+    136. $88 Christian Gangsta Rap
+    137. $89 Heavy Metal
+    138. $8A Black Metal
+    139. $8B Crossover
+    140. $8C Contemporary Christian
+    141. $8D Christian Rock
+    142. $8E Merengue
+    143. $8F Salsa
+    144. $90 Thrash Metal
+    145. $91 Anime
+    146. $92 Jpop
+    147. $93 Synthpop
+    148. $94 Abstract
+    149. $95 Art Rock
+    150. $96 Baroque
+    151. $97 Bhangra
+    152. $98 Big beat
+    153. $99 Breakbeat
+    154. $9A Chillout
+    155. $9B Downtempo
+    156. $9C Dub
+    157. $9D EBM
+    158. $9E Eclectic
+    159. $9F Electro
+    160. $A0 Electroclash
+    161. $A1 Emo
+    162. $A2 Experimental
+    163. $A3 Garage
+    164. $A4 Global
+    165. $A5 IDM
+    166. $A6 Illbient
+    167. $A7 Industro-Goth
+    168. $A8 Jam Band
+    169. $A9 Krautrock
+    170. $AA Leftfield
+    171. $AB Lounge
+    172. $AC Math Rock
+    173. $AD New Romantic
+    174. $AE Nu-Breakz
+    175. $AF Post-Punk
+    176. $B0 Post-Rock
+    177. $B1 Psytrance
+    178. $B2 Shoegaze
+    179. $B3 Space Rock
+    180. $B4 Trop Rock
+    181. $BB5 World Music
+    182. $B6 Neoclassical
+    183. $B7 Audiobook
+    184. $B8 Audio Theatre
+    185. $B9 Neue Deutsche Welle
+    186. $BA Podcast
+    187. $BB Indie-Rock
+    188. $BC G-Funk
+    189. $BD Dubstep
+    190. $BE Garage Rock
+    191. $BF Psybient
+    192. - 255. $C0 .. $FF reserved
 
 8.   Author's address
 
